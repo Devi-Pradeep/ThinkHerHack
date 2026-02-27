@@ -4,7 +4,7 @@
 
 ## Basic Details
 
-### Team Name: [ERROR 502]
+### Team Name: ERROR 502
 
 ### Team Members
 - Member 1: DEVI PRADEEP - Sree Narayana Gurukulam College of Engineering Kolenchery
