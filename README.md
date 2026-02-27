@@ -78,7 +78,7 @@ Final Product
 
 #### Website Flow Diagram
 
-<img width="794" height="42.25" alt="image" src="flow.jpeg" />
+<img src="flow.jpeg" />
 
 
 
