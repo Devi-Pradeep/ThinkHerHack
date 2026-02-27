@@ -71,7 +71,7 @@ Key features of your project:
 
 
 Final Product
-<img width="1597" height="848" alt="image" src="https://github.com/user-attachments/assets/fa19b54a-e2c2-4306-b639-117fbb4c8fec" />
+<img alt="image" src="https://github.com/user-attachments/assets/fa19b54a-e2c2-4306-b639-117fbb4c8fec" />
 ---
 
 
