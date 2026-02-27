@@ -55,7 +55,7 @@ Key features of your project:
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
+#### Screenshots 
 
 <img width="1597" height="848" alt="image" src="https://github.com/user-attachments/assets/fa19b54a-e2c2-4306-b639-117fbb4c8fec" />
 
