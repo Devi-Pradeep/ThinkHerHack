@@ -76,9 +76,9 @@ Final Product
 
 
 
-#### App Flow Diagram
+#### Website Flow Diagram
 
-<img width="1588" height="845" alt="image" src="flow.jpeg" />
+<img alt="image" src="flow.jpeg" />
 
 
 
