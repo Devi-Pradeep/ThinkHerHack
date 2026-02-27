@@ -1,4 +1,4 @@
-# ThinkHerHack
+# DONOR CONNECT
 
 Team Name: ERROR 502
 
@@ -26,3 +26,23 @@ The Solution
 * Patients or hospital can request blood instantly
 * System matches nearest available donors
 * Emergency alerts are sent in real-time.
+Technical Details
+Technologies/Components Used
+For Software:
+
+Languages used: [e.g., JavaScript, Python, Java]
+Frameworks used: [e.g., React, Django, Spring Boot]
+Libraries used: [e.g., axios, pandas, JUnit]
+Tools used: [e.g., VS Code, Git, Docker]
+For Hardware:
+
+Main components: [List main components]
+Specifications: [Technical specifications]
+Tools required: [List tools needed]
+Features
+List the key features of your project:
+
+Feature 1: [Description]
+Feature 2: [Description]
+Feature 3: [Description]
+Feature 4: [Description]
