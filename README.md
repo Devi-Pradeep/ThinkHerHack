@@ -69,23 +69,6 @@ Key features of your project:
 
 #### Diagrams
 
-**System Architecture:**
-
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
-
-**Application Workflow:**
-
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
-
----
-
-
-#### Build Photos
-
-![Team](Add photo of your team here)
-
 
 Final Product
 <img width="1597" height="848" alt="image" src="https://github.com/user-attachments/assets/fa19b54a-e2c2-4306-b639-117fbb4c8fec" />
@@ -95,18 +78,9 @@ Final Product
 
 #### App Flow Diagram
 
-![App Flow](docs/app-flow.png)
-*Explain the user flow through your application*
+<img width="1588" height="845" alt="image" src="flow.jpeg" />
 
 
-
-
-## Project Demo
-
-### Video
-[Add your demo video link here - YouTube, Google Drive, etc.]
-
-*Explain what the video demonstrates - key features, user flow, technical highlights*
 
 
 Made with ❤️ at TinkerHub
